@@ -1,0 +1,2 @@
+eng-to-ipa==0.0.2
+pyttsx3==2.90
